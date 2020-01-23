@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateEx", "ValidateEx\ValidateEx.csproj", "{F88430EA-B8DF-4026-A286-ACE82B5B429D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88430EA-B8DF-4026-A286-ACE82B5B429D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88430EA-B8DF-4026-A286-ACE82B5B429D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88430EA-B8DF-4026-A286-ACE82B5B429D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88430EA-B8DF-4026-A286-ACE82B5B429D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D5E6AED-4FBD-4314-983B-DC7C1990A816}
+	EndGlobalSection
+EndGlobal
